@@ -1,0 +1,108 @@
+#ContatosAdicionais{
+	float: left;
+}
+
+.form-horizontal{
+	float: left;
+	/*border: 2px dashed #606060;*/
+	padding: 80px;
+	margin-right: 10%;
+	background-color: rgb(238, 238, 238);
+	border-radius: 30px;
+}
+
+#form-contato{
+	float: left;
+}
+
+#eu{
+	text-align: center;
+	color: #999999;
+}
+
+#eu p{
+	font-size: 20px;
+}
+
+#eu h1{
+	color: #999999;
+}
+
+.Academica{
+	border: 1px dashed white;
+	padding: 40px;
+	background-color: rgb(238, 238, 238);
+	font-size: 19px;
+	border-radius: 20px;
+	color: #999999;
+}
+
+#habil{
+	background-color: rgb(238, 238, 238);
+	color: #999999;
+}
+
+#habil tbody tr td.formatacao{
+	color: black;
+	padding-left: 50px;
+}
+
+.progress{
+	margin-left: 40px;	
+	height: 30px;
+	width: 640px;
+}
+
+.progress .bar{
+	color: #ffffff;
+	text-align: center;
+	height: 100%;
+	font-size: 12px;
+}
+
+body{
+	margin-bottom: 40px;
+}
+
+.container{
+	max-width:1000px;
+}
+
+.TabelaMeusDados{
+	font-size: 19px;
+}
+
+.TabelaMeusDados tbody tr td{
+	padding: 15px;
+}	
+
+.control-label{
+	font-weight: bold;
+	color: black;
+}
+
+.nav li a{
+	display: inline;
+	float: left;
+	color: #999999;
+	text-align: center;
+	padding-left: 112px;
+	padding-right: 112px;
+	border: 2px dashed white;
+}
+
+.nav{
+	margin-left: -14px;
+}
+
+.navbar{
+	background-color: rgb(238, 238, 238);
+}
+
+.footer{
+	text-align: center;
+}
+
+.NomePrincipal{
+	color: #999999;
+}

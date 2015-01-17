@@ -12,7 +12,7 @@ layout: default
     {% if site.logo %}
       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
+    <h1 class="blog-title">{{ site.subtitle }}</h1>
     <h2 class="blog-description">{{ site.description }}</h2>
     <div class="custom-links">
       {% for social in site.social %}
@@ -52,7 +52,7 @@ layout: default
       {% endfor %}
     </div> -->
 	
-    <h5 class="index-headline normal"><span>Regular</span></h5>
+    <h5 class="index-headline normal"></h5>
     {% endif %}
 
     <div class="cf frame">

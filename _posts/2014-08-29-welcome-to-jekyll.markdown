@@ -33,6 +33,12 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 </footer>
 {% endhighlight %}
 
+	
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -50,10 +56,5 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-	
-	
+<a href="http://disqus.com" class="dsq-brlink"><span class="logo-disqus">Disqus</span></a>
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

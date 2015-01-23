@@ -48,9 +48,8 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		</div>
 </div>
 	
-
 	
-	 <article class="post">
+	 <div class="bottom-teaser cf">
 	<div class="isLeft" style="padding-left: 150px; width: 75%;"> 
 	<section class="author">
 	  <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
@@ -61,7 +60,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 	  <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
 	</section>
 	</div>
-	</article>
+	</div>
 
 	
 [jekyll]:      http://jekyllrb.com

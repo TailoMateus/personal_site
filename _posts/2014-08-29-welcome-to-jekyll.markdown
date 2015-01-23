@@ -33,7 +33,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 </footer>
 {% endhighlight %}
 
-<footer class="post-footer">
+<div class="post-footer">
 		<section class="share">
 		{% for social in site.social %}
 		{% if social.share_url != null %}
@@ -46,7 +46,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		<!--      {% endif %}
 		{% endfor %}  -->
 		</section>
-</footer>
+</div>
 
 	
 

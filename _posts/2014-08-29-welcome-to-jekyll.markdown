@@ -59,7 +59,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
      var disqus_shortname = 'desenvolvimentoweb'; // required: replace example with your forum shortname
-		var disqus_title = 'Perguntas e Respostas - Jekyll';
+		var disqus_title = 'Bem vindo no Jekyll';
 		var disqus_url = 'http://tailomateus.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html';
     var disqus_identifier = 'http://tailomateus.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html';
 	

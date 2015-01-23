@@ -34,7 +34,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 {% endhighlight %}
 
 <div class="post-footer">
-		<section class="share">
+		<div class="share">
 		{% for social in site.social %}
 		{% if social.share_url != null %}
 		<a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
@@ -45,7 +45,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		</a>
 		<!--      {% endif %}
 		{% endfor %}  -->
-		</section>
+		</div>
 </div>
 
 	

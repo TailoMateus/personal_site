@@ -33,6 +33,21 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 </footer>
 {% endhighlight %}
 
+<footer class="post-footer">
+		<section class="share">
+		{% for social in site.social %}
+		{% if social.share_url != null %}
+		<a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
+		  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
+
+		<h4>Compartilhe</h4>
+		<i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
+		</a>
+		<!--      {% endif %}
+		{% endfor %}  -->
+		</section>
+</footer>
+
 	
 
 [jekyll]:      http://jekyllrb.com
@@ -56,5 +71,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink"><span class="logo-disqus">Disqus</span></a>
-
+<a href="http://disqus.com" class="dsq-brlink"><span class="logo-disqus">Comentários:</span></a>

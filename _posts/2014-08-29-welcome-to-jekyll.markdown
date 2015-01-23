@@ -49,7 +49,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 </div>
 	
 	
-	<article class="post">
+	<div class="post">
 	 <div class="bottom-teaser cf">
 	<div class="isLeft" style="padding-left: 150px; width: 75%;"> 
 	<section class="author">
@@ -62,7 +62,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 	</section>
 	</div>
 	</div>
-	</article>
+	</div>
 
 	
 [jekyll]:      http://jekyllrb.com

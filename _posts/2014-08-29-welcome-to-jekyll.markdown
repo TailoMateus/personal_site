@@ -48,6 +48,18 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		</div>
 </div>
 	
+
+<div class="isLeft" style="padding-left: 150px; width: 75%;">  
+	<h5 class="index-headline featured"></h5>
+	<section class="author">
+	  <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
+	  <h4 style="text-align: right;">{{ site.author }}</h4>
+	  <p class="bio">{{author.bio}}</p>
+	  <h5 style="text-align: right;">tailogonsalves@gmail.com</h5>
+	  <hr style="width: 70%;">
+	  <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+	</section>
+</div> 
 	
 	
 [jekyll]:      http://jekyllrb.com
@@ -58,9 +70,9 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-     var disqus_shortname = 'desenvolvimentoweb'; // required: replace example with your forum shortname
-		var disqus_title = 'Bem vindo no Jekyll';
-		var disqus_url = 'http://tailomateus.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html';
+    var disqus_shortname = 'desenvolvimentoweb'; // required: replace example with your forum shortname
+	var disqus_title = 'Bem vindo no Jekyll';
+	var disqus_url = 'http://tailomateus.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html';
     var disqus_identifier = 'http://tailomateus.github.io/jekyll/update/2014/08/29/welcome-to-jekyll.html';
 	
     /* * * DON'T EDIT BELOW THIS LINE * * */

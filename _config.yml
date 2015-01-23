@@ -39,7 +39,7 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
+    icon:	github
     url:	https://github.com/TailoMateus
     desc:	Fork me on github
     share_url:

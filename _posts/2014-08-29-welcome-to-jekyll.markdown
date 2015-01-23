@@ -48,6 +48,34 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		</div>
 </div>
 
+
+<div class="bottom-teaser cf">
+         <div class="isLeft" style="padding-left: 150px; width: 75%;">  
+            <h5 class="index-headline featured"></h5>
+            <section class="author">
+              <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
+              <h4 style="text-align: right;">{{ site.author }}</h4>
+              <p class="bio">{{author.bio}}</p>
+			  <h5 style="text-align: right;">tailogonsalves@gmail.com</h5>
+              <hr style="width: 70%;">
+              <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+            </section>
+          </div> 
+          {{/post}}
+		  
+		  
+		   <!-- 
+          <div class="isRight">
+            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <footer class="site-footer">
+              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
+              <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+              <div class="inner">
+                <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+              </div>
+            </footer>   
+          </div>  -->
+        </div>
 	
 
 [jekyll]:      http://jekyllrb.com

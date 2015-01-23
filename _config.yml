@@ -1,6 +1,5 @@
 # Build settings
-# markdown: redcarpet
-markdown: MyCustomProcessor
+markdown: redcarpet
 highlighter: pygments
 
 # Site settings

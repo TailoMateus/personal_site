@@ -48,45 +48,6 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		</div>
 </div>
 	
-
-	
-	
-	<main class="content" role="main">
-      <article class="post">
-		<footer class="post-footer">
-		<section class="share">
-		{% for social in site.social %}
-		{% if social.share_url != null %}
-		<a class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
-		  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-
-		<h4>Compartilhe</h4>
-		<i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
-		</a>
-		<!--      {% endif %}
-		{% endfor %}  -->
-		</section>
-		</footer>
-
-        <div class="bottom-teaser cf">
-         <div class="isLeft" style="padding-left: 150px; width: 75%;">  
-            <h5 class="index-headline featured"></h5>
-            <section class="author">
-              <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
-              <h4 style="text-align: right;">{{ site.author }}</h4>
-              <p class="bio">{{author.bio}}</p>
-			  <h5 style="text-align: right;">tailogonsalves@gmail.com</h5>
-              <hr style="width: 70%;">
-              <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-            </section>
-          </div> 
-          {{/post}}
-		  
-        </div>
-
-      </article>
-    </main>
-	
 	
 	
 [jekyll]:      http://jekyllrb.com

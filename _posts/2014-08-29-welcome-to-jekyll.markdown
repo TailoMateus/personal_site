@@ -49,14 +49,14 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 </div>
 	
 
-	<section class="author">
+	<div class="author">
 	  <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
 	  <h4 style="text-align: right;">{{ site.author }}</h4>
 	  <p class="bio">{{author.bio}}</p>
 	  <h5 style="text-align: right;">tailogonsalves@gmail.com</h5>
 	  <hr style="width: 70%;">
 	  <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-	</section>
+	</div>
 
 	
 [jekyll]:      http://jekyllrb.com

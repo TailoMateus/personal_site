@@ -51,6 +51,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 <div class="isLeft" style="padding-left: 150px; width: 75%;">  
 	<h5 class="index-headline featured"></h5>
+	<article class="post">
 	<section class="author">
 	  <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
 	  <h4 style="text-align: right;">{{ site.author }}</h4>
@@ -59,6 +60,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 	  <hr style="width: 70%;">
 	  <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
 	</section>
+	</article>
 </div> 
 	
 	

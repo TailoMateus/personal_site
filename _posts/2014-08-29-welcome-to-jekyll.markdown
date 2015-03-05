@@ -40,13 +40,9 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		<a style="text-decoration: none;" class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
 		  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
 		
-		<div class="isLeft">  
 		<h4 style="font-size: 13pt;">Compartilhe</h4><br/>
 		<i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
 		</a>
-		<!--      {% endif %}
-		{% endfor %}  -->
-		</div>
 		</div>
 </div>
 	
@@ -58,7 +54,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 	  <h4 style="text-align: right;">{{ site.author }}</h4>
 	  <p class="bio">{{author.bio}}</p><br/>
 	  <h5 style="text-align: right; font-size: 14px;">tailogonsalves@gmail.com</h5>
-	  <hr>
+
 	  <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
 	</section>
   </div> 

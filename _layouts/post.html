@@ -42,6 +42,14 @@
         <br>
         <br>
         <br>
+        {% endif %}
+        <section class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+          <a name="topofpage"></a>
+          {{content}}
+        </section>
         
 		<footer class="post-footer">
 		<section class="share">
@@ -59,7 +67,7 @@
 		</footer>
 
         <div class="bottom-teaser cf">
-         <div class="isRight">  
+         <div class="isLeft">  
             <h5 class="index-headline featured"></h5>
             <section class="author">
               <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
@@ -83,17 +91,7 @@
               </div>
             </footer>   
           </div>  -->
-        </div>
-
-		
-        {% endif %}
-        <section class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
-          <a name="topofpage"></a>
-          {{content}}
-        </section>
+        </div>  
 
       </article>
     </main>

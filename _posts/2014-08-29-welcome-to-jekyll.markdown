@@ -49,14 +49,14 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 </div>
 	
 <div class="bottom-teaser cf">
- <div class="isLeft" style="padding-left: 230px; width: 75%;">  
+ <div class="isLeft">  
 	<h5 class="index-headline featured"></h5>
 	<section class="author">
 	  <div class="author-image" style="background-image: url({{site.author_image}})">Blog Logo</div>
 	  <h4 style="text-align: right;">{{ site.author }}</h4>
 	  <p class="bio">{{author.bio}}</p><br/>
 	  <h5 style="text-align: right; font-size: 14px;">tailogonsalves@gmail.com</h5>
-	  <hr style="width: 70%;">
+	  <hr>
 	  <p class="published">Publicado <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
 	</section>
   </div> 

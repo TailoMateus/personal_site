@@ -61,6 +61,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
   </div> 
   
   <div class="isRight">
+	<h5 class="index-headline featured"></h5>
 	  <div class="post-footer">
 		<div class="share">
 		{% for social in site.social %}

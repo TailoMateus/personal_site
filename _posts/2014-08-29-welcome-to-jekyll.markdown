@@ -63,11 +63,21 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
   <div class="isRight">
 	<h5 class="index-headline featured"><span>Supported by</span></h5>
 	<footer class="site-footer">
-	  <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
-	  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
-	  <div class="inner">
-		<section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
-	  </div>
+	  <div class="post-footer">
+		<div class="share">
+		{% for social in site.social %}
+		{% if social.share_url != null %}
+		<a style="text-decoration: none;" class="icon-{{ social.icon }}" href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}"
+		  onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
+
+		<h4 style="font-size: 13pt;">Compartilhe</h4><br/>
+		<i class="fa fa-{{ social.icon }}"></i><span class="hidden">{{ social.icon }}</span>
+		</a>
+		<!--      {% endif %}
+		{% endfor %}  -->
+		</div>
+</div>
+
 	</footer>   
   </div>  
 </div>

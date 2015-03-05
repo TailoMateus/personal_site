@@ -42,8 +42,16 @@
         <br>
         <br>
         <br>
+        {% endif %}
+        <section class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+          <a name="topofpage"></a>
+          {{content}}
+        </section>
         
-		<section class="post-content">
+		<footer class="post-footer">
 		<section class="share">
 		{% for social in site.social %}
 		{% if social.share_url != null %}
@@ -56,7 +64,7 @@
 		<!--      {% endif %}
 		{% endfor %}  -->
 		</section>
-		</section>
+		</footer>
 
         <div class="bottom-teaser cf">
          <div class="isLeft">  
@@ -84,16 +92,7 @@
             </footer>   
           </div>  -->
         </div>  
-		
-		{% endif %}
-        <section class="post-content">
-          <div class="post-reading">
-            <span class="post-reading-time"></span> read
-          </div>
-          <a name="topofpage"></a>
-          {{content}}
-        </section>
-        
+
       </article>
     </main>
     <!--  <div class="bottom-closer">

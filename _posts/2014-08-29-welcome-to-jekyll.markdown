@@ -61,7 +61,6 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
   </div> 
   
   <div class="isRight">
-	<h5 class="index-headline featured"><span>Supported by</span></h5>
 	<footer class="site-footer">
 	  <div class="post-footer">
 		<div class="share">
@@ -76,6 +75,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 		<!--      {% endif %}
 		{% endfor %}  -->
 		</div>
+	</footer>
 </div>
 
 	</footer>   

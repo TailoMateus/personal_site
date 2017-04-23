@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conselhos de um simples programador
-img: image-5.png
+img: default.png
 ---
 
 

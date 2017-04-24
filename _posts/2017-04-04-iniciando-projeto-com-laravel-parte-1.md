@@ -11,15 +11,15 @@ Seja bem vindo a série Iniciando projeto com laravel, na primeira parte veremos
 
 Para iniciarmos precisamos configurar algumas coisas.
 
-Como o foco não é banco de dados, utilizaremos o xampp. Você pode baixá-lo aqui: <a href="https://www.apachefriends.org/pt_br/download.html">https://www.apachefriends.org/pt_br/download.html</a>
+Como o foco não é banco de dados, utilizaremos o xampp. Você pode baixá-lo [aqui](https://www.apachefriends.org/pt_br/download.html)
 
 Para configurar o laravel:
 
-[Windows](https://gist.github.com/Turini/4949f23350ae2297c933">https://gist.github.com/Turini/4949f23350ae2297c933/)
+[Windows](https://gist.github.com/Turini/4949f23350ae2297c933)
 
-[Linux](https://gist.github.com/Turini/843fa49af3ada5599c69">https://gist.github.com/Turini/843fa49af3ada5599c69)
+[Linux](https://gist.github.com/Turini/843fa49af3ada5599c69)
 
-[Mac](https://gist.github.com/Turini/94ed27b4f169c66349d2">https://gist.github.com/Turini/94ed27b4f169c66349d2)
+[Mac](https://gist.github.com/Turini/94ed27b4f169c66349d2)
 
 ## CRIANDO O PROJETO
 
@@ -41,7 +41,7 @@ public: Geralmente aqui fica seu arquivo index.php, as imagens, css e o js.
 
 vendor: Possui o source code do laravel, plugins e dependências. Tudo que for usado de terceiros, como, frameworks e bibliotecas devem ficar aqui.
 
-Você pode descobrir mais sobre a estrutura aqui <a href="https://laravel.com/docs/5.4/structure">https://laravel.com/docs/5.4/structure</a>
+Você pode descobrir mais sobre a estrutura [aqui](https://laravel.com/docs/5.4/structure)
 
 ## BANCO DE DADOS
 

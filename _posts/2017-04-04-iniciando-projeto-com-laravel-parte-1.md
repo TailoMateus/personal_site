@@ -27,7 +27,7 @@ Muito bem, agora que tudo esta configurado, abra seu terminal. Digite laravel ne
 
 Mas o que é esse artisan? Bom, ele é uma ferramenta de linha de comando, inclusa no framework.
 
-Maiores informações sobre o artisan e os comandos inclusos, pode consultar <a href="https://laravel.com/docs/5.4/artisan">https://laravel.com/docs/5.4/artisan</a>
+Maiores informações sobre o artisan e os comandos inclusos, pode [consultar](https://laravel.com/docs/5.4/artisan)
 
 ## ESTRUTURAS DE PASTAS
 
@@ -57,11 +57,11 @@ O laravel tem interações possíveis com 4 bancos de dados, entre eles, MySQL, 
 ]
 </pre>
 
-Basicamente, é aqui que você deve inserir os seus dados. Além dessas chaves, é possível configurar outras, que não serão mencionadas nesse artigo, mas que podem ser vistas aqui <a href="https://laravel.com/docs/5.4/database">https://laravel.com/docs/5.4/database</a>
+Basicamente, é aqui que você deve inserir os seus dados. Além dessas chaves, é possível configurar outras, que não serão mencionadas nesse artigo, mas que podem ser vistas [aqui](https://laravel.com/docs/5.4/database)
 
 OBS: Em um projeto real, o ideal é colocar as configurações do banco de dados no arquivo .env, esse arquivo é mantido fora do controle de versão. Dessa forma, cada desenvolvedor vai possuir seu próprio arquivo e mantém as configurações do servidor em produção de forma sigilosa.
 
-Para saber mais: <a href="https://laravel.com/docs/5.4/configuration">https://laravel.com/docs/5.4/configuration</a>
+[Para saber mais](https://laravel.com/docs/5.4/configuration)
 
 ## CONCLUSÃO
 
@@ -69,12 +69,12 @@ Para iniciar um projeto é muito simples, com poucos passos já esta tudo config
 
 ## PARA SABER MAIS:
 
-Criando um projeto: <a href="http://laravel-recipes.com/recipes/30/creating-a-laravel-project">http://laravel-recipes.com/recipes/30/creating-a-laravel-project</a>
+[Criando um projeto](http://laravel-recipes.com/recipes/30/creating-a-laravel-project)
 
-Documentação do framework: <a href="https://laravel.com/docs/5.4">https://laravel.com/docs/5.4</a>
+[Documentação do framework](https://laravel.com/docs/5.4)
 
-O que é o laravel: <a href="https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386">https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386</a>
+[O que é o laravel](https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386)
 
-10 razões para usar laravel: <a href="http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html">http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html</a>
+[10 razões para usar laravel](http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html)
 
-Arquivo .env: <a href="http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env">http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env</a>
+[Arquivo .env](http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env)

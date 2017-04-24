@@ -15,9 +15,9 @@ Como o foco não é banco de dados, utilizaremos o xampp. Você pode baixá-lo a
 
 Para configurar o laravel:
 
-Windows: <a href="https://gist.github.com/Turini/4949f23350ae2297c933">https://gist.github.com/Turini/4949f23350ae2297c933</a>
-Linux: <a href="https://gist.github.com/Turini/843fa49af3ada5599c69">https://gist.github.com/Turini/843fa49af3ada5599c69</a>
-Mac: <a href="https://gist.github.com/Turini/94ed27b4f169c66349d2">https://gist.github.com/Turini/94ed27b4f169c66349d2</a>
+[Windows] (https://gist.github.com/Turini/4949f23350ae2297c933">https://gist.github.com/Turini/4949f23350ae2297c933/)
+[Linux: ] (https://gist.github.com/Turini/843fa49af3ada5599c69">https://gist.github.com/Turini/843fa49af3ada5599c69)
+[Mac:] (https://gist.github.com/Turini/94ed27b4f169c66349d2">https://gist.github.com/Turini/94ed27b4f169c66349d2)
 
 ## CRIANDO O PROJETO
 

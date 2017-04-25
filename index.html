@@ -9,12 +9,12 @@ layout: default
 
         {% for post in paginator.posts %}   
             <div class="col-md-4 card">
-                 
+              <a href="{{ post.url}}">
                 <div class="panel panel-default">
                   <div class="panel-body">
                     <h3 class="panel-title pull-left">{{ post.title | truncate: 25 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                   </div>
-                  <a href="{{ post.url}}">
+                  
                       {% if post.img %}
                       <img width="100%" src="/images/{{post.img}}" alt="{{post.title}}">
                       {% else %}
@@ -24,8 +24,8 @@ layout: default
                         {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
                         <a href="{{ post.url}}" class="btn btn-primary btn-sm pull-right mt10">Leia</a>
                       </div>
-                   </a>
                 </div>
+               </a>
             </div>
         
           {% endfor %}

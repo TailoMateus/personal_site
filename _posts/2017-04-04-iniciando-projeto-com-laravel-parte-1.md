@@ -4,13 +4,6 @@ title: Iniciando projeto com laravel – parte 1
 img: default.png
 ---
 
-<script type="text/javascript">
-<!--
-descrColor="000000";titleColor="0000FF";urlColor="008000";borderColor="336699";bgColor="FFFFFF";altColor="FFFFFF";coddisplaysupplier="020e18298eef48d093b78deb9add380f";formatId="1";numads="4";deslabel="Anuncio_Maior";type="1";
--->
-</script>
-<script type="text/javascript" src="//adrequisitor-af.lp.uol.com.br/uolaf.js?v.3009831997"></script>
-
 Seja bem vindo a série Iniciando projeto com laravel, na primeira parte veremos como criar um projeto, as principais pastas da estrutura e configuração do banco de dados.
 
 ## CONFIGURAÇÕES GERAIS

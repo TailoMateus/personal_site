@@ -13,10 +13,15 @@ São 3 dias (sexta, sábado e domingo) para iniciar uma startup. Parece simples?
 
 Basicamente nesse fim de semana de muita emoção são escolhidas as melhores ideias, levantadas pelos próprios participantes, organizado as equipes. Validar o problema, encontrar uma solução, achar uma forma de monetizar, desenvolver a solução. Não é necessário codar, um aplicativo ou sistema, mas validar a ideia.
 
+<br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwB7eS2bibE" frameborder="0" allowfullscreen></iframe>
 
+<br/>
+
 ### Mas afinal, o que aprendi participando?
+
+<br/>
 
 1)	Network
 
@@ -36,7 +41,11 @@ Durante o evento, tem alguns mentores prontos para auxiliar, geralmente eles sã
 
 Se você tiver a oportunidade de participar, participe! É uma experiência incrível.
 
+<br/>
+
 ### Para ler mais:
+
+<br/>
 
 [Como funciona um startup weekend](http://bizstart.com.br/como-funciona-um-startup-weekend)
 

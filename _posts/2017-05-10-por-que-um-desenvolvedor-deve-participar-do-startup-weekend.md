@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conselhos de um simples programador
+title: Por que um desenvolvedor deve participar do startup weekend
 img: default.png
 ---
 

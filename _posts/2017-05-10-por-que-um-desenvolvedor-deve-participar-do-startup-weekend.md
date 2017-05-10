@@ -39,7 +39,9 @@ Não perca tempo desenvolvendo ou criando um produto complexo sem antes testar c
 
 Durante o evento, tem alguns mentores prontos para auxiliar, geralmente eles são escolhidos, pois possuem conhecimento maior sobre uma determinada área. Tire todas as suas dúvidas com eles e aproveite toda a experiência que possuem.
 
-Se você tiver a oportunidade de participar, participe! É uma experiência incrível.
+<br/>
+
+#### Se você tiver a oportunidade de participar, participe! É uma experiência incrível.
 
 <br/>
 

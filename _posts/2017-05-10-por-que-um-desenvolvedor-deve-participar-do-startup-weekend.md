@@ -6,6 +6,8 @@ img: default.png
 
 ### O que é startup weekend?
 
+<br/>
+
 São 3 dias (sexta, sábado e domingo) para iniciar uma startup. Parece simples? Acredite em mim, não é.  Nesses dias você vai precisar trabalhar com pessoas que nunca tinha visto, isso inclui outros desenvolvedores, designers e empreendedores. Muitas ideias diferentes, ocasionando conflitos e adicionando experiência. 
 
 

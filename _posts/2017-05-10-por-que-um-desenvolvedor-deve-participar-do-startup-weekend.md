@@ -11,7 +11,7 @@ img: default.png
 São 3 dias (sexta, sábado e domingo) para iniciar uma startup. Parece simples? Acredite em mim, não é.  Nesses dias você vai precisar trabalhar com pessoas que nunca tinha visto, isso inclui outros desenvolvedores, designers e empreendedores. Muitas ideias diferentes, ocasionando conflitos e adicionando experiência. 
 
 
-Basicamente nesse fim de semana de muita emoção são escolhidas as melhores ideias, levantadas pelos próprios participantes, organizado as equipes. Validar o problema, encontrar uma solução, achar uma forma de monetizar, desenvolver a solução. Não é necessário codar, um aplicativo ou sistema, mas validar a ideia.
+Basicamente nesse fim de semana de muita emoção são escolhidas as melhores ideias, levantadas pelos próprios participantes, após é organizado as equipes. Validar o problema, encontrar uma solução, achar uma forma de monetizar, desenvolver a solução. Não é necessário codar, um aplicativo ou sistema, mas validar a ideia.
 
 <br/>
 
@@ -33,7 +33,7 @@ Não tenha medo de falar, de expor o que você está sentindo naquele exato mome
 
 3)	Priorizar o que é mais importante
 
-Não perca tempo desenvolvendo ou criando um produto complexo sem antes testar com o seu cliente. Isso processo possui um nome e ele se chama MVP (Minimum Viable Product).
+Não perca tempo desenvolvendo ou criando um produto complexo sem antes testar com o seu cliente. Esse processo possui um nome e ele se chama MVP (Minimum Viable Product).
 
 4)	Aproveite o conhecimento dos mentores.
 

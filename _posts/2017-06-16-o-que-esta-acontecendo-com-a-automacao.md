@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mas afinal, o que está acontecendo com a automação
+title: Mas afinal, o que está acontecendo com a automação?
 img: default.png
 ---
 
 
-# Mas afinal, o que está acontecendo com a automação?
+### Quanto tempo você acha que vai demorar até que as máquinas façam o seu trabalho melhor do que você?
 
 Segundo um estudo de 2013, quase metade dos empregos nos EUA pode potencialmente ser automatizada nas próximas duas décadas. Mas espera! A automação já não existe há décadas? O que mudou dessa vez?
 

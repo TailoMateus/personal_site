@@ -8,10 +8,10 @@ layout: default
     <div class="row pack">
 
         {% for post in paginator.posts %}   
-            <div class="col-md-4 card">
+            <div class="col-md-12 card">
                 <div class="panel panel-default">
                   <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ post.title | truncate: 25 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+                    <h3 class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                   </div>
                   
                   <div class="panel-body">

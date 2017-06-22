@@ -2,6 +2,7 @@
 layout: post
 title: Iniciando projeto com laravel – parte 1
 img: default.png
+url: https://tableless.com.br/iniciando-projeto-com-laravel-parte-1/
 ---
 
 Seja bem vindo a série Iniciando projeto com laravel, na primeira parte veremos como criar um projeto, as principais pastas da estrutura e configuração do banco de dados.

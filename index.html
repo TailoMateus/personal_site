@@ -21,7 +21,11 @@ layout: default
                   {% endif %}
                   <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}</small>
-                    <a href="{{ post.url}}" class="btn btn-primary btn-sm pull-right mt10">Leia</a>
+                    {% if post.url_external %}
+                      <a href="{{ post.url_external }}" class="btn btn-primary btn-sm pull-right mt10">Leia</a>
+                    {% else %}
+                      <a href="{{ post.url}}" class="btn btn-primary btn-sm pull-right mt10">Leia</a>
+                    {% endif %}
                   </div>
                 </div>
             </div>

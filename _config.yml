@@ -3,6 +3,12 @@ email: tailogonsalves@gmail.com
 
 url: "http://tailomateus.github.io" 
 
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+
 #social
 twitter: http://twitter.com/@tailomgonsalves
 github: http://github.com/TailoMateus

@@ -149,3 +149,17 @@ footer {
     margin-bottom: 50px;
     margin-top: 50px;
 }
+
+li.center {
+    list-style: none;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+li a.link {
+    color: #333;
+    margin-bottom: 12px;
+    display: inline-block;
+}

@@ -7,7 +7,7 @@ url: "http://tailomateus.github.io"
 # Build settings
 markdown: kramdown
 permalink: /:title/
-paginate: 6
+paginate: 20
 paginate_path: /page:num/
 
 #social

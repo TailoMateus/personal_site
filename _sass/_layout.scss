@@ -18,9 +18,10 @@ img {
     max-width: 100%;
 }
 
-h1.center {
+h1.center,
+h2.center {
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     width: 100%;
 }
 
@@ -130,12 +131,12 @@ footer {
 
 @media (min-width: 1200px) {
     .container {
-        width: 1000px;
+        width: 800px;
     }
 }
 
 .img_profile {
-    max-width: 180px;
+    max-width: 100px;
     display: block;
     text-align: center;
     width: 100%;
@@ -145,9 +146,16 @@ footer {
     overflow: hidden;
 }
 
+.img_circle {
+	float: left; 
+	margin-right: 30px;
+	border-radius: 100%;
+	width: 64px;
+	height: 64px;
+}
+
 .sobre_mim {
     margin-bottom: 50px;
-    margin-top: 50px;
     text-align: center;
 }
 

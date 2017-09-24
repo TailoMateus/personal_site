@@ -20,27 +20,6 @@ layout: default
               </p>
             </div>
          </div>
-		 
-		<div class="col-md-12">
-           <div class="panel-body" style="text-align: center;">
-				<p style="margin-bottom: 50px;">
-					<img width="100%" class="img_circle" src="/images/tableless.png"/>
-					<a target="_blank" href="https://tableless.com.br/author/tailo-mateus-gonsalves">Writer</a> 
-					and 
-					<a target="_blank" href="https://tableless.com.br">editor on site tableless</a>
-				</p>
-				
-				<p style="margin-bottom: 50px;">
-					<img width="100%" class="img_circle" src="/images/psicologia.png"/>
-					Writer in the <a target="_blank" href="http://tailomateus.github.io/blog_newsletter.html">newsletter the life, the machines and something more.</a> 
-				</p>
-				
-				<p style="margin-bottom: 50px;">
-					<img width="100%" class="img_circle" src="/images/blog.png"/>
-					<a target="_blank" href="http://tailomateus.github.io/blog.html">My blog posts</a> 
-				</p>
-            </div>
-         </div> 
      
         <h1 class="center">Recents Articles</h1>
      
@@ -48,13 +27,8 @@ layout: default
             <div class="col-md-12 card">
                 <div class="panel-body">
                                      
-                    {% if post.url_external %}
+                    {% if not post.newsletter %}
                       <a href="{{ post.url_external }}" target="_blank" style="color:#000;">
-                        <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
-                      </a>
-                      
-                   {% else %}
-                      <a href="{{ post.url}}" target="_blank" style="color:#000;">
                         <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                       </a>
                     {% endif %}

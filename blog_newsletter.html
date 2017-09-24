@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+ 
+  
+    <div class="row pack col-md-12" style="margin-bottom: 50px;">
+        <div class="img_profile">
+          <img width="100%" src="/images/profile.jpg"/>
+        </div>
+		
+		<h2 class="center">Tailo Mateus Gonsalves</h2>
+     
+        <div class="col-md-12">
+           <div class="panel-body">
+              <p class="sobre_mim">
+                Web developer. It's fascinated for travels, <a target="_blank" href="https://www.goodreads.com/user/show/66783285-tailo-gonsalves">books lover,</a> 
+                <br><br>
+              </p>
+            </div>
+        </div>
+     
+        <h1 class="center">Recents Articles</h1>
+     
+        {% for post in paginator.posts %}   
+            <div class="col-md-12 card">
+                <div class="panel-body">
+                                     
+                    {% if not post.newsletter %}
+                      <a href="{{ post.url }}" target="_blank" style="color:#000;">
+                        <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+                      </a>
+                    {% endif %}
+                   
+                    
+                  </div>
+            </div>
+        
+          {% endfor %}
+
+    </div>
+</div>

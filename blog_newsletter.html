@@ -30,7 +30,7 @@ permalink: /blog_newsletter/
                 <div class="panel-body">
                                      
                     {% if post.newsletter %}
-                      <a href="{{ post.url }}" target="_blank" style="color:#000;">
+                      <a href="{{ post.url }}" style="color:#000;">
                         <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                       </a>
                     {% endif %}

@@ -23,26 +23,26 @@ layout: default
 		 
 		<div class="col-md-12">
            <div class="panel-body">
-				<p style="margin-bottom: 50px;">
-					<img width="100%" class="img_circle" src="/images/tableless.png"/>
+				<img width="100%" class="img_circle" src="/images/tableless.png"/>
+				<p style="height: 100px;display: inline-block;width: calc(100% - 100px);">
 					<a target="_blank" href="https://tableless.com.br/author/tailo-mateus-gonsalves">Writer</a> 
 					and 
 					<a target="_blank" href="https://tableless.com.br">editor on site tableless</a>
 				</p>
 				
-				<p style="margin-bottom: 50px;">
-					<img width="100%" class="img_circle" src="/images/psicologia.png"/>
+				<img width="100%" class="img_circle" src="/images/psicologia.png"/>
+				<p style="height: 100px;display: inline-block;width: calc(100% - 100px);">
 					Writer in the <a href="http://tailomateus.github.io/blog_newsletter">newsletter the life, the machines and something more.</a> 
 				</p>
 
-				<p style="margin-bottom: 50px;">
-					<img width="100%" class="img_circle" src="/images/blog.png"/>
+				<img width="100%" class="img_circle" src="/images/blog.png"/>
+				<p style="height: 100px;display: inline-block;width: calc(100% - 100px);">
 					<a href="http://tailomateus.github.io/blog">My blog posts</a> 
 				</p>
             </div>
          </div> 
      
-        <h1 class="center">Recents Articles</h1>
+        <h1 class="center">Recents Articles {% paginator.posts %} </h1>
      
         {% for post in paginator.posts %}   
             <div class="col-md-12 card">

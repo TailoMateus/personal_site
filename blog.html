@@ -23,8 +23,8 @@ permalink: /blog/
             </div>
          </div>
      
-        <h1 class="center">Recents Articles</h1>
-     
+        <h1 class="center">Recents Articles {% paginator.posts %}</h1>
+	 
         {% for post in paginator.posts %}   
             <div class="col-md-12 card">
                 <div class="panel-body">
@@ -32,7 +32,6 @@ permalink: /blog/
                       <a href="{{ post.url }}" target="_blank" style="color:#000;">
                         <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                       </a>
-                   
                     
                   </div>
             </div>

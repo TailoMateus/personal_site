@@ -22,7 +22,7 @@ layout: default
          </div>
 		 
 		<div class="col-md-12">
-           <div class="panel-body" style="text-align: center;">
+           <div class="panel-body">
 				<p style="margin-bottom: 50px;">
 					<img width="100%" class="img_circle" src="/images/tableless.png"/>
 					<a target="_blank" href="https://tableless.com.br/author/tailo-mateus-gonsalves">Writer</a> 
@@ -32,12 +32,12 @@ layout: default
 				
 				<p style="margin-bottom: 50px;">
 					<img width="100%" class="img_circle" src="/images/psicologia.png"/>
-					Writer in the <a target="_blank" href="http://tailomateus.github.io/blog_newsletter">newsletter the life, the machines and something more.</a> 
+					Writer in the <a href="http://tailomateus.github.io/blog_newsletter">newsletter the life, the machines and something more.</a> 
 				</p>
-				
+
 				<p style="margin-bottom: 50px;">
 					<img width="100%" class="img_circle" src="/images/blog.png"/>
-					<a target="_blank" href="http://tailomateus.github.io/blog">My blog posts</a> 
+					<a href="http://tailomateus.github.io/blog">My blog posts</a> 
 				</p>
             </div>
          </div> 
@@ -47,18 +47,10 @@ layout: default
         {% for post in paginator.posts %}   
             <div class="col-md-12 card">
                 <div class="panel-body">
-                                     
-                    {% if post.url_external %}
-                      <a href="{{ post.url_external }}" target="_blank" style="color:#000;">
-                        <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
-                      </a>
-                      
-                   {% else %}
-                      <a href="{{ post.url}}" target="_blank" style="color:#000;">
-                        <h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
-                      </a>
-                    {% endif %}
-                   
+				
+				  <a href="{{ post.url}}" style="color:#000;">
+					<h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+				  </a>
                     
                   </div>
             </div>

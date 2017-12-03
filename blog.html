@@ -18,8 +18,10 @@ permalink: /blog/
             <div class="col-md-12 card">
                 <div class="panel-body">
                           
-					{% if post.newsletter %}
-					 
+					{% if post.externo %}
+					 <a href="{{ post.externo }}" style="color:#000;">
+                        			<h3 style="font-size: 22px;" class="panel-title pull-left">{{ post.title | truncate: 100 }}</h3><span style="font-size:20px;" class="pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
+                      			 </a>
 					{% else %}
 					
 					  <a href="{{ post.url }}" style="color:#000;">

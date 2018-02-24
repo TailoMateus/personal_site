@@ -76,6 +76,11 @@ a, a:hover {
     color: #333;
 }
 
+a:hover {
+    border-bottom: 2px solid #333;
+    text-decoration: none;
+}
+
 .social {
     list-style: none;
     display: inline;

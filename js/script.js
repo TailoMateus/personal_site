@@ -1,3 +1,8 @@
+if(window.innerWidth>800){
+	const top=(window.innerHeight-document.querySelector("body").clientHeight)/2;
+	document.querySelector("body > .container").style.top=top+"px";
+}
+
 var il = new Il();
 il.beginFlying();
 
@@ -18,9 +23,4 @@ function Il() {
 		setInterval(flyTalents, 1200);
 	};
 	return this;
-}
-
-if(window.innerWidth>800){
-	const top=(window.innerHeight-document.querySelector("body").clientHeight)/2;
-	document.querySelector("body > .container").style.top=top+"px";
 }

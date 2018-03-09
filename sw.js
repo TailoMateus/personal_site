@@ -3,14 +3,6 @@ self.addEventListener('install', function(e) {
     caches.open('your-magic-cache').then(function(cache) {
       return cache.addAll([
         '/',
-        '/index.html',
-        '/blog.html',
-        '/manifest.json',
-        '/images/profile.jpg',
-        '/css/main.css',
-        '/feed.xml',
-        '/js/script.js',
-        '/site.js',
       ]);
     })
   );

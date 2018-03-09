@@ -3,6 +3,7 @@ self.addEventListener('install', function(e) {
     caches.open('your-magic-cache').then(function(cache) {
       return cache.addAll([
         '/',
+        '/site.js',
       ]);
     })
   );

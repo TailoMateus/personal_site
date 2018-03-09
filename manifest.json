@@ -1,0 +1,14 @@
+{
+  "name": "Tailo Mateus Gonsalves",
+  "short_name": "Tailo Mateus Gonsalves",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#fff",
+  "icons": [
+    {
+      "src": "/images/profile.jpg",
+      "sizes": "100x100",
+      "type": "image/jpg"
+    }
+  ]
+}

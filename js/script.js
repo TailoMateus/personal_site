@@ -1,10 +1,14 @@
-if(window.innerWidth>800 && window.location.pathname == "/"){
-	const top=(window.innerHeight-document.querySelector("body").clientHeight)/2;
-	document.querySelector("body > .container").style.top=top+"px";
+if(window.location.pathname == "/"){
+	if(window.innerWidth>800) {
+		const top=(window.innerHeight-document.querySelector("body").clientHeight)/2;
+		document.querySelector("body > .container").style.top=top+"px";
+	}
+	
+	var il = new Il();
+	il.beginFlying();
 }
 
-var il = new Il();
-il.beginFlying();
+
 
 function Il() {
 	var talents = ['code', 'write', 'read', 'think', 'learn', 'run', 'play', 'mathematics', 'science', 'sports', 'podcasts'];

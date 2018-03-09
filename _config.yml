@@ -2,7 +2,7 @@ title: Tailo Mateus Gonsalves
 email: tailogonsalves@gmail.com
 
 disqus-shortname: tailo_mateus
-url: "http://tailomateus.github.io" 
+url: "https://tailomateus.github.io" 
 
 # Build settings
 markdown: kramdown
@@ -11,8 +11,8 @@ paginate: 20
 paginate_path: /page:num/
 
 #social
-twitter: http://twitter.com/@tailomgonsalves
-github: http://github.com/TailoMateus
+twitter: https://twitter.com/@tailomgonsalves
+github: https://github.com/TailoMateus
 
 # Sass style
 sass:

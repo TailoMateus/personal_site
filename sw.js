@@ -5,6 +5,7 @@ self.addEventListener('install', function(e) {
         '/',
         '/site.js',
         '/css/main.css',
+        'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',
         '/images/profile.jpg',
         '/js/script.js',
       ]);

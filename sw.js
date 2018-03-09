@@ -6,6 +6,7 @@ self.addEventListener('install', function(e) {
         '/site.js',
         '/css/main.css',
         'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',
+        'https://fonts.googleapis.com/css?family=Raleway:400,700',
         '/images/profile.jpg',
         '/js/script.js',
       ]);

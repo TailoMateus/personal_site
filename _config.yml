@@ -10,9 +10,6 @@ permalink: /:title/
 paginate: 20
 paginate_path: /page:num/
 
-keep_files: ['.htaccess']
-include: ['.htaccess']
-
 #social
 twitter: https://twitter.com/@tailomgonsalves
 github: https://github.com/TailoMateus

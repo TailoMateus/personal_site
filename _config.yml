@@ -10,7 +10,8 @@ permalink: /:title/
 paginate: 20
 paginate_path: /page:num/
 
-include: ['.htaccess']
+include: 
+  - .htaccess
 
 #social
 twitter: https://twitter.com/@tailomgonsalves

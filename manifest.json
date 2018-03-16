@@ -3,6 +3,7 @@
   "short_name": "Tailo Mateus Gonsalves",
   "display": "standalone",
   "start_url": "/",
+  "theme_color": "#fff",
   "background_color": "#fff",
   "icons": [
     {

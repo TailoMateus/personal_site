@@ -34,9 +34,12 @@ a:hover {
     text-decoration: none;
 }
 
-.pack .col-md-4 {
+.col-md-4 {
     width: 30%;
     display: inline-block;
+}
+
+.pack .col-md-4 {
     padding: 20px;
     margin: 1%;
     box-sizing: border-box;
@@ -59,7 +62,7 @@ a:hover {
 	 margin-right: 0 !important;
     }
 	
-    .pack .col-md-4 {
+    .col-md-4 {
     	width: 100%;
     }
 }

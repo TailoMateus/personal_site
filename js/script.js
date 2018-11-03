@@ -1,9 +1,5 @@
-if(window.location.pathname == "/"){
-	var il = new Il();
-	il.beginFlying();
-}
-
-
+var il = new Il();
+il.beginFlying();
 
 function Il() {
 	var talents = ['code', 'write', 'read', 'think', 'learn', 'run', 'play', 'mathematics', 'science', 'sports', 'podcasts'];

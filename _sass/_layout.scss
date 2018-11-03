@@ -107,3 +107,16 @@ li a.link {
 .post-content p {
     line-height: 30px;
 }
+
+.pagination {
+	padding-left: 60px;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
+
+.pagination li {
+	list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+}

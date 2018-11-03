@@ -34,7 +34,7 @@ a:hover {
     text-decoration: none;
 }
 
-.col-md-4 {
+.pack .col-md-4 {
     width: 30%;
     display: inline-block;
     padding: 20px;
@@ -43,7 +43,7 @@ a:hover {
     border: 1px solid #eee;
 }
 
-.col-md-4:hover {
+.pack .col-md-4:hover {
 	box-shadow: 1px 2px 10px #eee;
 }
 
@@ -59,7 +59,7 @@ a:hover {
 	 margin-right: 0 !important;
     }
 	
-    .col-md-4 {
+    .pack .col-md-4 {
     	width: 100%;
     }
 }

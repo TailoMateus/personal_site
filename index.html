@@ -3,44 +3,33 @@ layout: default
 ---
 
 <div class="home">
- 
-  
-    <div class="row col-md-12" style="margin-bottom: 50px;">
-        <div class="img_profile">
-          <img width="100%" src="/images/profile.jpg" alt="Image profile"/>
-        </div>
+  <div class="row col-md-12" style="margin-bottom: 50px;">
+    <div class="img_profile">
+      <img width="100%" src="/images/profile.jpg" alt="Image profile"/>
+    </div>
 		
-	<h1 class="center">Hi! I'm Tailo Mateus Gonsalves</h1>
+    <h1 class="center">Hi! I'm Tailo Mateus Gonsalves</h1>
      
-        <div class="col-md-12" style="width: 100%;">
-           <div class="panel-body center">
-	      <h2 class="center" style="margin-bottom: 30px;margin-top: 10px;">
-		<span style="display: inline-block;">and I like to </span>
-		<div style="display: inline-block;" id="flyup">code</div>
-	      </h2>
+    <div class="col-md-12" style="width: 100%;">
+      <div class="panel-body center">
+        <h2 class="center" style="margin-bottom: 30px;margin-top: 10px;">
+	  <span style="display: inline-block;">and I like to </span>
+	  <div style="display: inline-block;" id="flyup">code</div>
+        </h2>
 		   
-	      <div class="row pack">
+	<div class="row pack">
 
         {% for post in paginator.posts %}   
-            <div class="col-md-4 card">
-             <a href="{{ post.externo }}" target="_blank" class="index-anchor">    
-                <div class="panel panel-default">
+          <div class="col-md-4 card">
+            <a href="{{ post.externo }}" target="_blank" class="index-anchor">    
+              <div class="panel panel-default">
                   
-                  {% if post.img %}
+                {% if post.img %}
                   <img width="100%" src="{{post.img}}" alt="{{post.title}}">
-                  {% endif %}
-                  
-                  <div class="panel-body">
-                    <h3 class="panel-title pull-left">{{ post.title | truncate: 50 }}</h3><span class="post-meta pull-right"></span>
-                  </div>
-			
-		  <div class="panel-body">
-                    <h3 class="panel-resume pull-left">{{ post.resume | truncate: 180 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
-                  </div>
-                  
-                  <div class="panel-body"><small>
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
-                  </div>
+                {% endif %}
+                 
+                <h3 class="panel-title pull-left">{{ post.title | truncate: 50 }}</h3><span class="post-meta pull-right"></span>
+                <h3 class="panel-resume pull-left">{{ post.resume | truncate: 180 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                 </div>
                 </a>
             </div>

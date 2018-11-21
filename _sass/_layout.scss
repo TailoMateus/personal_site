@@ -76,6 +76,10 @@ a:hover {
   .col-md-4 {
     width: 100%;
   }
+	
+  .newsletter {
+    display: none;
+  }
 }
 
 .img_profile {
@@ -87,6 +91,16 @@ a:hover {
   margin: 0 auto;
   border-radius: 100%;
   overflow: hidden;
+}
+
+.newsletter {
+  position: absolute;
+  top: 40px;
+  right: 30px;
+  background: #cecece;
+  padding: 15px;
+  color: #323232;
+  border: none;
 }
 
 .post-content p {

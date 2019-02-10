@@ -17,6 +17,13 @@ header.header {
     list-style: none;
     display: inline-block;
     margin-right: 30px;
+	  
+    a {  
+      font-family: "Roboto",sans-serif;
+      font-size: 0.9rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
 
     .newsletter {
       color: #fff;

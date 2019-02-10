@@ -13,7 +13,24 @@ header.header {
   z-index: 10;
 
   li {
-    padding: 12px 0;	
+    padding: 12px 0;
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+
+    .newsletter {
+      color: #fff;
+      border: none;
+    }
+
+    .page_home {
+      color: #fff;
+    }
+
+    .page_home:hover {
+      border-bottom: none;
+      color: #fff;
+    }
   }
 }
 
@@ -105,25 +122,6 @@ a:hover {
   margin: 0 auto;
   border-radius: 100%;
   overflow: hidden;
-}
-
-.newsletter {
-  position: absolute;
-  top: 40px;
-  right: 30px;
-  background: #cecece;
-  padding: 15px;
-  color: #323232;
-  border: none;
-}
-
-.page_home {
-  color: #fff;
-}
-
-.page_home:hover {
-  border-bottom: none;
-  color: #fff;
 }
 
 .post-content p {

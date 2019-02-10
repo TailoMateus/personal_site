@@ -112,6 +112,10 @@ header.header {
 
 article.post {
   margin-bottom: 60px;
+	
+  .post-content p {	
+    line-height: 30px;	
+  }
 
   p {
     font-size: 19px;

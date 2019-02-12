@@ -23,18 +23,11 @@ header.header {
       font-size: 0.9rem;
       font-weight: 700;
       text-transform: uppercase;
-    }
-
-    .newsletter {
       color: #fff;
       border: none;
     }
 
-    .page_home {
-      color: #fff;
-    }
-
-    .page_home:hover {
+    a:hover {
       border-bottom: none;
       color: #fff;
     }

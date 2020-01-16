@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: 
+titleImage: Image
 date: 2017-04-04
 title: Iniciando projeto com laravel – parte 1
 description: Iniciando um projeto com Laravel

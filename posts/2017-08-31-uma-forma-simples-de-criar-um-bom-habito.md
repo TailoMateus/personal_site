@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/1600/0*ZCwoIZn7IoacviC2.jpg
-titleImage: 
+titleImage: Image
 date: 2017-08-31
 title: Uma forma simples de criar um bom hábito
 description: O que é um hábito?

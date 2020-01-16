@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/1600/1*vHHBwcUFUaHWXntSnqKdCA.png
-titleImage: 
+titleImage: Image
 date: 2019-01-22
 title: As ferramentas do desenvolvedor React em 2019
 description: Ferramentas úteis para otimizar o fluxo de trabalho do React em 2019

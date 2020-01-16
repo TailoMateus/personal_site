@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/1600/1*vHHBwcUFUaHWXntSnqKdCA.png
-titleImage: 
+titleImage: Image
 date: 2019-01-02
 title: Entendendo os componentes funcionais
 description: Vamos entender qual componente utilizar.

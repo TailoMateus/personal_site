@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: 
+titleImage: Image
 date: 2018-08-20
 title: Analisando a solução para um Sudoku
 description: Classes de algoritmos inteligentes - Gulosos e programação dinâmica

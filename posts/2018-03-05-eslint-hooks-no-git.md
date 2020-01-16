@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/1600/1*5ytPO1t6Dhz-RuN0NtBiJw.jpeg
-titleImage: 
+titleImage: Image
 date: 2018-03-05
 title: Usando ESlint e hooks no git
 description: Como mandar bem nos commits

@@ -1,6 +1,6 @@
 ---
 image: https://cdn.slidesharecdn.com/ss_thumbnails/gwsk-141027203238-conversion-gate01-thumbnail-4.jpg?cb=1414514843
-titleImage: 
+titleImage: Image
 date: 2017-10-18
 title: O kit do desenvolvedor Front-end
 description: Precisamos falar de código bom.

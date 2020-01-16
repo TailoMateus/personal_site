@@ -1,6 +1,6 @@
 ---
 image: https://i.imgur.com/NQLUTgq.jpg
-titleImage:
+titleImage: Image
 date: 2017-06-09
 title: Mas afinal, o que está acontecendo com a automação?
 description: Quanto tempo você acha que vai demorar até que as máquinas façam o seu trabalho melhor do que você?

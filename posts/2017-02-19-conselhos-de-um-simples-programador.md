@@ -1,12 +1,10 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: 
+titleImage: Image
 date: 2017-02-19
 title: Conselhos de um simples programador
-description: 
+description: Aqui estão conselhos de um simples programador ou apenas algumas situações que vivenciei na minha vida.
 ---
-
-Aqui estão conselhos de um simples programador ou apenas algumas situações que vivenciei na minha vida.
 
 Você também vai passar por várias fases como programador, momentos de fazer gambiaras, pois tem etapas que vai querer fugir daquele projeto chato. Mas também vai viver momentos em que o código importará mais que qualquer resultado. Com certeza você também vai passar por várias situações difíceis, e possivelmente vai pensar em desistir da carreira. Mas lembre-se, esta fase vai passar.
 

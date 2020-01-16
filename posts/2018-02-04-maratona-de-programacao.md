@@ -1,6 +1,6 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: 
+titleImage: Image
 date: 2018-02-04
 title: Maratona de programação e Uri Online Judge
 description: Por que você também deve participar?

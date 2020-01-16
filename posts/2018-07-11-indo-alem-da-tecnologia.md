@@ -1,6 +1,6 @@
 ---
 image: https://i.imgur.com/j5jwvPX.jpg
-titleImage: 
+titleImage: Image
 date: 2018-07-11
 title: Indo além da tecnologia
 description: Como está a sua vida?

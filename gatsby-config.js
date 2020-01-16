@@ -82,7 +82,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `minimal-ui`, 
-        icon: `src/images/favicon.ico`,
+        icon: `src/images/profiles.jpg`,
       },
     },
     `gatsby-plugin-sitemap`,

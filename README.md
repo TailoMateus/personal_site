@@ -1,6 +1,8 @@
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+Personal website/blog.
 
-For more themes visit - [gatsbyjs](https://www.gatsbyjs.org/docs/)
+Currently using:
+
+- [Gatsby](https://www.gatsbyjs.org)
+- [React](https://reactjs.org)
+- [GraphQL](https://graphql.org)
+- [Netlify](https://www.netlify.com)

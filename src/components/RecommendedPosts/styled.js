@@ -1,9 +1,14 @@
 import styled from "styled-components"
+import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 export const RecommendedWrapper = styled.section`
   display: flex;
   padding: 2rem;
+
+  ${media.lessThan("medium")`
+    display: inline-block;
+  `}
 `
 
 export const RecommendedLink = styled(AniLink)`
@@ -19,6 +24,13 @@ export const RecommendedLink = styled(AniLink)`
   border-top: 1px solid #38444d;
   background: #192734;
   line-height: 22px;
+
+  ${media.lessThan("medium")`
+    padding: 10px;
+    display: block;
+    width: 100%;
+  `}
+
   &:hover {
     background: #38444d;
   }

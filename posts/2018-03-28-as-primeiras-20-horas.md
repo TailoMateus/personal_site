@@ -12,5 +12,5 @@ Após algumas iniciativas frustradas conheci o Ted Talks: [As primeiras 20 horas
 
 Segue um trecho de uma das músicas que utilizei nos treinos.
 
- <iframe src="https://medium.com/media/d10dcc95b0b27e5b575f3f0ad2fd21f1" frameborder=0></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/421156413&amp;color=ff5500"></iframe>
 

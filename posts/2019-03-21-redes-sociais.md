@@ -24,10 +24,8 @@ Antes de finalizar quero deixar uma reflexão para você. “**Quantos dos melho
 
 **Referências**
 
- <iframe src="https://medium.com/media/2ba62a582dd9914385cd3bcac39b3fbd" frameborder=0></iframe>
-[**Facebook's first president, on Facebook: 'God only knows what it's doing to our children's brains'**
-*November 9, 2017 The Facebook founders purposefully created something addictive, the social network's first president…*www.washingtonpost.com](https://www.washingtonpost.com/news/the-switch/wp/2017/11/09/facebooks-first-president-on-facebook-god-only-knows-what-its-doing-to-our-childrens-brains/?noredirect=on&utm_term=.9ab34d1a28e7)
-[**Ten Arguments For Deleting Your Social Media Accounts Right Now**
-*Ten Arguments For Deleting Your Social Media Accounts Right Now book. Read 519 reviews from the world's largest…*www.goodreads.com](https://www.goodreads.com/book/show/42402190-dez-argumentos-para-voc-deletar-agora-suas-redes-sociais)
-[**21 Lessons for the 21st Century**
-*In Sapiens, he explored our past. In Homo Deus, he looked to our future. Now, one of the most innovative thinkers on…*www.goodreads.com](https://www.goodreads.com/book/show/41714475-21-li-es-para-o-s-culo-21)
+[Facebook's first president, on Facebook: 'God only knows what it's doing to our children's brains](https://www.washingtonpost.com/news/the-switch/wp/2017/11/09/facebooks-first-president-on-facebook-god-only-knows-what-its-doing-to-our-childrens-brains/?noredirect=on&utm_term=.9ab34d1a28e7)
+
+[Ten Arguments For Deleting Your Social Media Accounts Right Now](https://www.goodreads.com/book/show/42402190-dez-argumentos-para-voc-deletar-agora-suas-redes-sociais)
+
+[21 Lessons for the 21st Century](https://www.goodreads.com/book/show/41714475-21-li-es-para-o-s-culo-21)

@@ -6,7 +6,7 @@ module.exports = [{
       options: {"plugins":[],"maxWidth":960,"linkImagesToOriginal":false},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Tailo Mateus Gonsalves","short_name":"Tailo Mateus Gonsalves","start_url":"/","background_color":"#fff","theme_color":"#fff","display":"minimal-ui","icon":"src/images/profiles.jpg"},
+      options: {"plugins":[],"name":"Tailo Mateus Gonsalves","short_name":"Tailo Mateus Gonsalves","start_url":"/","background_color":"#fff","theme_color":"#fff","display":"minimal-ui","icon":"src/images/favicon.png"},
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},

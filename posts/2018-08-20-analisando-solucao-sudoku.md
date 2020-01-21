@@ -16,10 +16,7 @@ Nosso problema consiste em uma grid 9 x 9, o principal objetivo é preencher as
 linhas, as colunas e os sub quadrados 3 x 3 com números não repetidos de 1 a 9
 da nossa matriz.
 
-<div style="text-align: center">
 ![](https://cdn-images-1.medium.com/max/800/1*lTLwAvQ0i1s1mdhmxjcjng.png)
-</div>
-<span class="figcaption_hack">Sudoku</span>
 
 ### Resolvendo o problema
 
@@ -36,10 +33,8 @@ números quando foram válidos. Caso o algoritmo encontre alguma inconformidade,
 ele pode descartar todos os casos testados anteriormente.
 
 A animação facilita nosso entendimento:
-<div style="text-align: center">
 ![](https://cdn-images-1.medium.com/max/800/1*ISlzB1fMXIYeovi3OrmyYw.gif)
-</div>
-<span class="figcaption_hack">Sudoku sendo preenchido</span>
+
 
 **As vantagens**
 
@@ -72,10 +67,8 @@ encontrar uma solução através de todas as possibilidades possíveis.
 Podemos utilizar outra forma para resolver nosso problema, aliás, existem várias
 outras, mas vamos focar em apenas outra. Começamos analisando onde temos menos
 possibilidades para colocar um único número.
-<div style="text-align: center">
+
 ![](https://cdn-images-1.medium.com/max/800/1*Vv7ulMFh_D8VrrZx_PyJjg.png)
-</div>
-<span class="figcaption_hack">Gerando novas matrizes</span>
 
 No exemplo acima, escolhemos uma célula que possui duas possibilidades, dessa
 forma temos uma nova matriz com os valores 8 e 9, da qual podemos aplicar a

@@ -14,7 +14,7 @@ carreira de desenvolvedor.
 ### Como funciona? 
 
 Basicamente são três pessoas, usando apenas um computador. O objetivo principal é resolver o maior número de problemas em 5 horas de provas. 
-Cada submissão errada é descontada 20 minutos, o tempo é muito importante e serve como fator de desempate.  
+Cada submissão errada é descontada 20 minutos, o tempo é muito importante e serve como fator de desempate.
 Geralmente os assuntos dos problemas são ad hoc (força bruta), strings, estrutura de dados, grafos, matemática, 
 geometria computacional e paradigmas. Os problemas possuem um tempo para compilar, isso varia de acordo com a descrição do problema. 
 Muitas equipes optam em utilizar linguagens como C ou C++, pois são mais rápidas e diminuem a chance de ganhar um “Time limit exceeded”. 
@@ -37,38 +37,24 @@ computador para escrever a solução e compilar o código não eram tão boas as
 em certos momentos é primordial parar e ouvir outras ideias. No fim, o objetivo principal é resolver o maior número de problemas
 com a ajuda da equipe. São habilidades e experiências que são levados para a vida inteira.
 
-![Minha equipe de programação](https://tailomateus.github.io/images/face_2014.JPG "Minha equipe de programação")
-<br/>
-Imagem de 2014. Da esquerda para direita: [Lucas] (https://www.urionlinejudge.com.br/judge/pt/profile/2796), [Darlyn] (https://www.facebook.com/DarlynAnderson), [Tailo (eu)] (https://tableless.com.br/authors/tailo-mateus-gonsalves/).
-
 ### Como nós estudávamos?
 
 Bom, demorei todo esse tempo para chegar no meu objetivo. Você também pode estudar e começar agora. 
 Nós estudávamos revolvendo os problemas do [Uri Online Judge](https://www.urionlinejudge.com.br).
-
-![Categorias Uri Online Judge](https://tailomateus.github.io/images/categorias_uri.gif "Categorias Uri Online Judge")
 
 Para utilizar acesse o [site](https://www.urionlinejudge.com.br) e crie uma conta em português, inglês ou espanhol. 
 Algumas vezes tem competições iguais a maratona, fica ligado no menu contests ;)
 
 
 Os problemas estão separados por assuntos e possuem nível entre 1 à 10. Atualmente existe quase 2000 mil problemas 
-e podem ser resolvidos com estas linguagens:
-
-![Linguagens disponíveis no Uri Online Judge](https://tailomateus.github.io/images/linguagens_disponiveis.png "Linguagens disponíveis no Uri Online Judge")
+e podem ser resolvidos com várias linguagens.
 
 
 ### Resolvendo o primeiro problema
 
-Este é o problema mais simples do site, vamos ver a descrição e a solução:
-
-![Primeiro problema no Uri Online Judge](https://tailomateus.github.io/images/primeiro_problema.png "Primeiro problema no Uri Online Judge")
+Vamos ver a descrição e a solução:
 
 Neste caso o problema pede dois números na entrada e a saída exatamente igual ao exemplo. Resumidamente, somar dois valores.
-
-A solução em C++:
-
-![Solução do primeiro problema no Uri Online Judge](https://tailomateus.github.io/images/solucao_primeiro_problema.png "Solução do primeiro problema no Uri Online Judge")
 
 A utilização do C++ é da minha preferência, mas você pode usar outras :D
 

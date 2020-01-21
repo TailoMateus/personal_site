@@ -150,4 +150,5 @@ As you can see in the image, there are several types of functions. One cool thin
 ### Credits and References:
 
 [Cypress Documentation](https://docs.cypress.io/api/introduction/api.html#Sections)
+
 [An Intro to Web Site Testing with Cypress](https://css-tricks.com/an-intro-to-web-app-testing-with-cypress-io/)

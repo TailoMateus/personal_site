@@ -20,6 +20,12 @@ description: Pesquisa com alguns dos profissionais mais influentes no mercado.
 		border-radius: 100%;
 	}
 
+    a.name {
+        text-align: center; 
+        display: block;
+        border-bottom: none;
+    }
+
 </style>
 
 Muitas pessoas não sabem como iniciar sua carreira como desenvolvedor. Com isso, realizei uma pesquisa com alguns dos profissionais mais influentes no desenvolvimento web. Esta pesquisa tem a finalidade de ajudar pessoas que estão começando ou pretendem começar nessa área. Além de todas as opiniões, não deixo de ressaltar a extrema importância de alguns itens: lógica de programação aguçada, domínio do inglês e muito JavaScript.  
@@ -29,7 +35,7 @@ Muitas pessoas não sabem como iniciar sua carreira como desenvolvedor. Com isso
 Veja o que cada desenvolvedor julga ser mais importante: 
 
 
-## <a href='https://twitter.com/caio_gondim' target='_blank' style='text-align: center; display: block;'>Caio Gondim</a>
+## <a href='https://twitter.com/caio_gondim' target='_blank' class='name'>Caio Gondim</a>
 
 
 <span class="span_center">
@@ -41,7 +47,7 @@ Constância é a chave. Tente sempre aprender e aplicar dentro de um feedback lo
 
 <hr />
 
-## <a href="https://twitter.com/bernarddeluna" target='_blank' style='text-align: center; display: block;'>Bernard De Luna</a>
+## <a href="https://twitter.com/bernarddeluna" target='_blank' class='name'>Bernard De Luna</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/ZzkHwcX.jpg' class="image_center"/>
@@ -51,7 +57,7 @@ Não tenha medo de ir para fora do país; guarde dinheiro, pois um dia vai preci
 
 <hr />
 
-## <a href="https://twitter.com/eminetto" target='_blank' style='text-align: center; display: block;'>Elton Minetto</a>
+## <a href="https://twitter.com/eminetto" target='_blank' class='name'>Elton Minetto</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/bl4qtiJ.jpg' class="image_center"/>
@@ -61,7 +67,7 @@ Não se preocupe tanto com linguagens de programação, estude mais conceitos b�
 
 <hr />
 
-## <a href="https://twitter.com/eduardojmatos" target='_blank' style='text-align: center; display: block;'>Eduardo Matos</a>
+## <a href="https://twitter.com/eduardojmatos" target='_blank' class='name'>Eduardo Matos</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/arye58v.jpg' class="image_center"/>
@@ -71,7 +77,7 @@ Primeiro, <strong>não abrace tudo</strong> de uma vez. Melhor aprender aos pouc
 
 <hr />
 
-## <a href="https://twitter.com/davitferreira" target='_blank' style='text-align: center; display: block;'>Davi Ferreira</a>
+## <a href="https://twitter.com/davitferreira" target='_blank' class='name'>Davi Ferreira</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/ZqA2PcE.jpg' class="image_center"/>
@@ -81,7 +87,7 @@ Seja humilde. Humildade não é abaixar a cabeça, mas simplesmente aceitar que 
 
 <hr />
 
-## <a href="https://twitter.com/felipenmoura" target='_blank' style='text-align: center; display: block;'>Felipe Nascimento de Moura</a>
+## <a href="https://twitter.com/felipenmoura" target='_blank' class='name'>Felipe Nascimento de Moura</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/GELcAPd.jpg' class="image_center"/>
@@ -91,7 +97,7 @@ Não tenha medo de aprender e de experimentar...sempre há algo novo para ser ap
 
 <hr />
 
-## <a href="https://twitter.com/mjcoffeeholick" target='_blank' style='text-align: center; display: block;'>Alda Rocha</a>
+## <a href="https://twitter.com/mjcoffeeholick" target='_blank' class='name'>Alda Rocha</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/snVnbDt.jpg' class="image_center"/>
@@ -101,7 +107,7 @@ Se envolva com a comunidade. A gente acha que todo o conhecimento está por aí 
 
 <hr />
 
-## <a href="https://twitter.com/diegoeis" target='_blank' style='text-align: center; display: block;'>Diego Eis</a>
+## <a href="https://twitter.com/diegoeis" target='_blank' class='name'>Diego Eis</a>
 
 <span class="span_center">
 <img src='https://i.imgur.com/ovSL5Av.jpg' class="image_center"/>

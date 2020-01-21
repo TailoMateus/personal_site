@@ -49,9 +49,6 @@ If you want to go deeper into the subject, I suggest:
 
 Personally I think the biggest problem is not having support in IE 11.
 
-![Support Fetch API](https://tailomateus.github.io/images/support_fetch.png)
-
-
 ## Axios - How to use
 
 The API is basically an http client, it works on browsers and nodejs servers. 
@@ -96,8 +93,6 @@ axios.post('/save', { firstName: 'Teste', lastName: 'Testes' })
 ### SUPPORT
 
 It is supported by the most used browsers.
-
-![Support Fetch API](https://tailomateus.github.io/images/support_axios.png)
 
 To learn more about Axios API:
 

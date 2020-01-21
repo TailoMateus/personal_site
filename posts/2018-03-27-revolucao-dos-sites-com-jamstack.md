@@ -12,12 +12,7 @@ desempenho, maior segurança, menor custo de escala e uma melhor experiência de
 desenvolvimento. Para ser considerado uma JAMstack o projeto deve atender os
 seguintes critérios:
 
-* JavaScript 
-* APIs
-* Marcação
-
 ![](https://cdn-images-1.medium.com/max/800/1*W5wpg3QBfz2F-zt9cub77Q.png)
-<span class="figcaption_hack">O que é JAMstack?</span>
 
 O termo foi criado por [Mathias Biilman](https://twitter.com/biilmann) para
 descrever “Uma arquitetura de desenvolvimento moderno baseado em JavaScript no

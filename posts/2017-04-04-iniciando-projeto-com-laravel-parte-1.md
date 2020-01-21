@@ -18,14 +18,14 @@ Como o foco não é banco de dados, utilizaremos o xampp. Você pode baixá-lo a
 Para configurar o laravel:
 
 Windows: <a href="https://gist.github.com/Turini/4949f23350ae2297c933">https://gist.github.com/Turini/4949f23350ae2297c933</a>
+
 Linux: <a href="https://gist.github.com/Turini/843fa49af3ada5599c69">https://gist.github.com/Turini/843fa49af3ada5599c69</a>
+
 Mac: <a href="https://gist.github.com/Turini/94ed27b4f169c66349d2">https://gist.github.com/Turini/94ed27b4f169c66349d2</a>
 
 ## CRIANDO O PROJETO
 
 Muito bem, agora que tudo esta configurado, abra seu terminal. Digite laravel new NomeProjeto. Pronto, isso mesmo, seu projeto já esta criado. Para testá-lo, inicie seu apache do xampp e digite no terminal php artisan serve, nesse momento já pode testar sua aplicação em localhost.
-
-<img class="alignnone wp-image-57488" src="https://diegoeis.github.io/tableless-static-images/2017/03/Sem-título.png" alt="" width="648" height="297" />
 
 Mas o que é esse artisan? Bom, ele é uma ferramenta de linha de comando, inclusa no framework.
 
@@ -49,15 +49,15 @@ Você pode descobrir mais sobre a estrutura aqui <a href="https://laravel.com/do
 
 O laravel tem interações possíveis com 4 bancos de dados, entre eles, MySQL, Postgres, SQLite, SQL Server. Na versão atual 5.4, o default é o MySQL. Toda a configuração fica na pasta config e no arquivo database.php. E tudo fica em um array como este:
 
-<pre class="lang-php">
-'mysql' =&gt; [
-'driver' =&gt; 'mysql',
-'host' =&gt; env('DB_HOST', 'localhost'),
-'database' =&gt; env('DB_DATABASE', 'NomeDoBanco'),
-'username' =&gt; env('DB_USERNAME', 'root'),
-'password' =&gt; env('DB_PASSWORD', ''),
+```
+'mysql' = [
+'driver' = 'mysql',
+'host' = env('DB_HOST', 'localhost'),
+'database' = env('DB_DATABASE', 'NomeDoBanco'),
+'username' = env('DB_USERNAME', 'root'),
+'password' = env('DB_PASSWORD', ''),
 ]
-</pre>
+```
 
 Basicamente, é aqui que você deve inserir os seus dados. Além dessas chaves, é possível configurar outras, que não serão mencionadas nesse artigo, mas que podem ser vistas aqui <a href="https://laravel.com/docs/5.4/database">https://laravel.com/docs/5.4/database</a>
 

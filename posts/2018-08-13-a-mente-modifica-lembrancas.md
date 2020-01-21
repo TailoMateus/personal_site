@@ -30,4 +30,4 @@ Algo parecido aconteceu comigo. Na minha infância gostava muito de uma garota (
 
 “A memória, como a liberdade, é algo frágil”.
 
-Referência: [*Falsas memórias](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-863X2007000100005)*
+Referência: [Falsas memórias](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-863X2007000100005)

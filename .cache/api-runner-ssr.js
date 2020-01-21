@@ -9,7 +9,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/home/tailo/Área de Trabalho/old_site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Tailo Mateus Gonsalves","short_name":"Tailo Mateus Gonsalves","start_url":"/","background_color":"#fff","theme_color":"#fff","display":"minimal-ui","icon":"src/images/profiles.jpg"},
+      options: {"plugins":[],"name":"Tailo Mateus Gonsalves","short_name":"Tailo Mateus Gonsalves","start_url":"/","background_color":"#fff","theme_color":"#fff","display":"minimal-ui","icon":"src/images/favicon.png"},
     },{
       plugin: require('/home/tailo/Área de Trabalho/old_site/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},

@@ -23,10 +23,7 @@ você pode ver o resultado após dedicar esse tempo tocando violão. Obviamente 
 me tornei um especialista, mas fez parte de um processo de evolução como pessoa.
 Você pode se dedicar a outras coisas, não relacionadas a tecnologia.
 
-<div style="text-align:center">
 ![](https://cdn-images-1.medium.com/max/800/0*K7p1UrT-P93yNUWP.gif)
-</div>
-<span class="figcaption_hack">Uma dancinha</span>
 
 ### Exercícios e leitura
 
@@ -46,10 +43,7 @@ sedentarismo](https://drauziovarella.uol.com.br/atividade-fisica/150-minutos-de-
 sendo um dos maiores fatores de risco para doenças graves, eu também fiquei
 surpreso e assustado com isso.
 
-<div style="text-align:center">
 ![](https://cdn-images-1.medium.com/max/800/0*w_xM2-0ylsv-e_EH.gif)
-</div>
-<span class="figcaption_hack">Fazendo exercícios</span>
 
 ### Alimentação e sono
 
@@ -63,10 +57,7 @@ algumas coisas sobre a [composição dos alimentos (carboidratos, proteínas,
 gorduras boas e
 ruins)](https://globoesporte.globo.com/eu-atleta/nutricao/guia/composicao-dos-alimentos-o-que-sao-carboidratos-lipidios-e-proteinas.html).
 
-<div style="text-align:center">
 ![](https://cdn-images-1.medium.com/max/800/0*MJkdn8Jv1_jRfPkd.gif)
-</div>
-<span class="figcaption_hack">Homer dormindo</span>
 
 ### Exames
 
@@ -83,10 +74,7 @@ conseguir isso? Com estes questionamentos estou sendo capaz de encaminhar meus
 objetivos, por exemplo, dominar o inglês, conseguir um novo emprego, investir
 meu dinheiro…
 
-<div style="text-align:center">
 ![](https://cdn-images-1.medium.com/max/800/0*zg7zlNrDc-mO0F_g.gif)
-</div>
-<span class="figcaption_hack">Arnold Schwarzenegger</span>
 
 ### Concluindo sem uma conclusão
 

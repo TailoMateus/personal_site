@@ -6,9 +6,11 @@ import * as S from "./styled"
 const PostItem = ({ slug, image, titleImage, date, timeToRead, title, description, search }) => (
   <S.PostItemLink to={slug} search={search} cover direction="right" bg="#fff" duration={0.6}>
     <S.PostItemWrapper>
-      <img width="100%" src={image} alt={titleImage} />
+      <S.GroupImage>
+        <img width="100%" src={image} alt={titleImage} />
+      </S.GroupImage>
       <S.PostItemInfo>
-        <S.PostItemDate>{date} • {timeToRead} min de leitura</S.PostItemDate>
+        <S.PostItemDate>{date} • {timeToRead == 1 ? `${timeToRead} minute` : `${timeToRead || 3} minutes`} to read</S.PostItemDate>
         <S.PostItemTitle>
           {title}
         </S.PostItemTitle>

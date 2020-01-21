@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql, useStaticQuery } from 'gatsby'
-import Avatar from '../Avatar'
 import * as S from "./styled"
 
 
@@ -9,7 +8,7 @@ const Profile = () => {
     query MyQuery {
       site {
         siteMetadata {
-          title_introduction
+          title
           description
         }
       }
@@ -17,15 +16,18 @@ const Profile = () => {
   `)
 
   return (
-    <div className="Profile-wrapper">
-      <Avatar />
-      <h1>{site.siteMetadata.title_introduction}</h1>
-      <S.ProfileWrapper>
-        {site.siteMetadata.description.map(description =>
-          <S.Items key={description}><strong>{description}</strong></S.Items>
-        )}
-      </S.ProfileWrapper>
-    </div>
+    <>
+        <S.FirstGroupWrapper>
+          <S.Title>{site.siteMetadata.title}</S.Title>
+        </S.FirstGroupWrapper>
+        <S.SecondGroupWrapper>
+          <S.ProfileWrapper>
+            {site.siteMetadata.description.map(description =>
+              <S.Items key={description}>{description}</S.Items>
+            )}
+          </S.ProfileWrapper>
+        </S.SecondGroupWrapper>
+    </>
   )
 }
 

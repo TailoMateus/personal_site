@@ -17,7 +17,10 @@ export const LayoutMain = styled.main`
 
 export const LayoutProfile = styled.aside`
   text-align: center;
-  margin-top: 3%;
+  background-image: url(/assets/img/header.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 340px;
 
   ${media.lessThan("large")`
     padding-right: 40px;

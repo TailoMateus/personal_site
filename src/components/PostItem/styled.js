@@ -11,6 +11,7 @@ export const PostItemLink = styled(AniLink)`
   box-sizing: border-box;
   border: 1px solid #eee;
   text-decoration: none;
+  vertical-align: top;
   &:hover {
     color: #1fa1f2;
   }
@@ -44,10 +45,24 @@ export const PostItemTitle = styled.h1`
   font-size: 1.5rem;
   font-weight: 700;
   margin: 20px 0;
+  height: 48px;
+  line-height: 24px;
+  overflow: hidden;
 `
 
 export const PostItemDescription = styled.p`
   font-size: 1.2rem;
   font-weight: 300;
-  line-height: 1.2;
+  line-height: 23px;
+  height: 46px;
+  overflow: hidden;
+`
+
+export const GroupImage = styled.div`
+  height: 150px;
+  overflow: hidden;
+
+  ${media.lessThan("medium")`
+    height: auto;
+  `}
 `

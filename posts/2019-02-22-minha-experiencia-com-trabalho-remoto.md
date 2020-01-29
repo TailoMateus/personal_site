@@ -42,9 +42,7 @@ Durante esse tempo li essa frase: **“Produtividade não é sobre fazer muitas 
 
 Há um bom tempo, estudo sobre esse assunto. A mente humana é fascinante, principalmente o que conseguimos fazer com ela. Você pode ler mais sobre hábitos nesse artigo [Uma forma simples de criar um bom hábito](https://tableless.com.br/uma-forma-simples-de-criar-um-bom-habito/). 
 
-Reformulei muitos hábitos, inclusive os hábitos alimentares, principalmente em comer mais frequentemente e aumentar a quantidade de comida boa ingerida (isso mesmo, não é todo mundo que quer perder peso). Criar horários específicos e fixos para comer é muito importante, afinal, a geladeira esta a poucos metros de distância. Abaixo você pode ver meu lanche da tarde:
-
-![](https://cdn-images-1.medium.com/max/800/1*oDd1vO0VxyvxOcymcgLwiA.png) <span class="figcaption_hack">Meu lanche da tarde</span>
+Reformulei muitos hábitos, inclusive os hábitos alimentares, principalmente em comer mais frequentemente e aumentar a quantidade de comida boa ingerida (isso mesmo, não é todo mundo que quer perder peso). Criar horários específicos e fixos para comer é muito importante, afinal, a geladeira esta a poucos metros de distância. 
 
 Algumas dicas importantes: 1 — Se você quer criar uma boa atividade, tente pensar no [efeito dominó](https://jamesclear.com/domino-effect). Por exemplo, após fazer X coisa vou fazer Y atividade. 2 — Além de não querer mudar todas coisas ruins ao mesmo tempo, concentre-se em algo por vez. 3 — E seja aquilo que você quer, deixe de tentar comer saudável para ser saudável. Deixe de querer fazer exercícios para ser alguém que faz exercícios. 
 

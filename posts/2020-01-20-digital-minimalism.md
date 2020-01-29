@@ -10,6 +10,3 @@ Digital minimalism helps us to question which digital tools add the most value t
 
 In short, adopting digital minimalism gives us more time to focus on what we think is essential for us.
 
-![](https://cdn-images-1.medium.com/max/3200/0*qQDkxSUQXFeZVMpq.jpeg)
-
-

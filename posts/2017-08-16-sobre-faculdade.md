@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2800/0*vWZ8av1b4wX18A5j.jpg
-titleImage: Image
 date: 2017-08-16
 title: Sobre a faculdade
 description: Esse artigo relata alguns momentos que vivi na faculdade no curso de Sistemas de informação

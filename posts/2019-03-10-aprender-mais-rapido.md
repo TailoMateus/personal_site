@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/0*Dm-rAX6nrPMmlzEH
-titleImage: Image
 date: 2019-03-10
 title: Como aprender mais rápido
 description: Dicas e conceito

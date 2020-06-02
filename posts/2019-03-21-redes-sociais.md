@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: Image
 date: 2019-03-21
 title: O outro lado das redes sociais
 description: Um pouco sobre o outro lado

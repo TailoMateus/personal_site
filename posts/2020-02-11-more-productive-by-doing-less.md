@@ -1,6 +1,5 @@
 ---
 image: https://content.thriveglobal.com/wp-content/uploads/2019/11/essentialism_energy.png
-titleImage: Image
 date: 2020-02-11
 title: Is it possible to be more productive by doing less?
 description: "What are the minority of my actions that drive the majority of my results?"

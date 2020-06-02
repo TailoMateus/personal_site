@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/3200/0*qQDkxSUQXFeZVMpq.jpeg
-titleImage: Image
 date: 2020-01-07
 title: Minha nova visão sobre minimalismo
 description: As coisas estão mudando

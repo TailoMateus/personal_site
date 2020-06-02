@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: Image
 date: 2019-08-26
 title: Prioritize the important things
 description: "Do what is important and not what is urgent"

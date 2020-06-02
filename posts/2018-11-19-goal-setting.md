@@ -1,6 +1,5 @@
 ---
 image: https://thepracticaldev.s3.amazonaws.com/i/qok1usirp6gy0z23zfms.jpeg
-titleImage: Image
 date: 2018-11-19
 title: Rethinking goal setting
 description: Setting goals

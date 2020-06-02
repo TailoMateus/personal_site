@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2280/0*V-hJbJVXm--OwsXE.jpeg
-titleImage: Image
 date: 2019-12-19
 title: Anotações do livro Hábitos Atômicos
 description: Melhores hábitos, melhores resultados

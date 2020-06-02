@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/1600/1*5ytPO1t6Dhz-RuN0NtBiJw.jpeg
-titleImage: Image
 date: 2018-03-07
 title: Using ESlint and Git Hooks
 description: How to handle commits well

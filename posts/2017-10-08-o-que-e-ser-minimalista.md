@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*B1rwjuWuYbNp0wOE7JDxoA.png
-titleImage: Image
 date: 2017-10-08
 title: O que é ser minimalista?
 description: Menos coisas, mais felicidade

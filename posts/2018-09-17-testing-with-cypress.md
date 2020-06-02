@@ -1,6 +1,5 @@
 ---
 image: https://i.imgur.com/3N55xi3.jpg
-titleImage: Image
 date: 2018-09-17
 title: Testing applications with Cypress
 description: Your headaches are over

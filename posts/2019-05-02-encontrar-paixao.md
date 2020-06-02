@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: Image
 date: 2019-05-02
 title: Pare de tentar encontrar sua paixão
 description: Conselhos bons e ruins

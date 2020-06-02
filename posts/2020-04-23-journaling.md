@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2592/0*rcvN1wT1oKtIXndz.jpg
-titleImage: Image
 date: 2020-04-23
 title: The benefits of journaling
 description: "Journaling is simply the act of thinking about your life and writing it down."

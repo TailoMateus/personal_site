@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/1600/1*nCei5-biuarAE-wOZ6_BDQ.jpeg
-titleImage: Image
 date: 2019-02-22
 title: Minha experiência com trabalho remoto
 description: O outro lado do trabalho remoto.

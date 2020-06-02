@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/433/1*z-eMJOy5m2YVOsd--LDPEQ.png
-titleImage: Image
 date: 2018-03-27
 title: A revolução dos sites com JAMstack
 description: Uma nova maneira de criar sites e aplicativos

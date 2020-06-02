@@ -45,8 +45,8 @@ export const PostItemTitle = styled.h1`
   font-size: 1.5rem;
   font-weight: 700;
   margin: 20px 0;
-  height: 48px;
-  line-height: 24px;
+  height: 60px;
+  line-height: 28px;
   overflow: hidden;
 `
 
@@ -56,13 +56,4 @@ export const PostItemDescription = styled.p`
   line-height: 23px;
   height: 46px;
   overflow: hidden;
-`
-
-export const GroupImage = styled.div`
-  height: 150px;
-  overflow: hidden;
-
-  ${media.lessThan("medium")`
-    height: auto;
-  `}
 `

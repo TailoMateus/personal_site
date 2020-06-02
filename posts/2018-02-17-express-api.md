@@ -1,6 +1,5 @@
 ---
 image: https://i.imgur.com/nfwlTfm.png
-titleImage: Image
 date: 2018-02-17
 title: Creating an Express API 
 description: Or just venturing into the Back End

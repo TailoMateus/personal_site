@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*RJd68CSY3GMAUafelRsNOw.jpeg
-titleImage: Image
 date: 2019-01-25
 title: Como criar um ambiente melhor para nossos hábitos
 description: Como o ambiente nos afeta

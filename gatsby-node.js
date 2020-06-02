@@ -37,7 +37,6 @@ exports.createPages = ({ graphql, actions }) => {
               date(formatString: "MMMM DD, YYYY", locale: "en-us")
               image
               title
-              titleImage
               description
             }
             timeToRead
@@ -78,7 +77,7 @@ exports.createPages = ({ graphql, actions }) => {
       })
     })
 
-    const postsPerPage = 9
+    const postsPerPage = 15
     const numPages = Math.ceil(posts.length / postsPerPage)
 
     Array.from({ length: numPages }).forEach((_, index) => {

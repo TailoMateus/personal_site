@@ -1,6 +1,5 @@
 ---
 image: https://i.imgur.com/JvE8HAp.jpg
-titleImage: Image
 date: 2017-10-31
 title: Pesquisa – Como se tornar um desenvolvedor melhor
 description: Pesquisa com alguns dos profissionais mais influentes no mercado.
@@ -20,11 +19,11 @@ description: Pesquisa com alguns dos profissionais mais influentes no mercado.
 		border-radius: 100%;
 	}
 
-    a.name {
-        text-align: center; 
-        display: block;
-        border-bottom: none;
-    }
+	a.name {
+		text-align: center; 
+		display: block;
+		border-bottom: none;
+	}
 
 </style>
 

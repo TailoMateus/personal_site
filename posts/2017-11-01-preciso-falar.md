@@ -1,6 +1,5 @@
 ---
 image: https://cdn-images-1.medium.com/max/2000/1*VfJZ3Br1HPPeJxWczAqObA.jpeg
-titleImage: Precisamos falar sobre nossos problemas
 date: 2017-11-01
 title: Desculpe o transtorno, mas preciso falar
 description: Primeiramente, esse não é um texto informativo ou explicativo. São ideias e relatos da minha fase turbulenta.

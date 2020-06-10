@@ -95,6 +95,7 @@ export const MainContent = styled.section`
     max-width: 100%;
     width: auto;
     margin: 0 auto;
+    max-height: 700px;
   }
   iframe {
     padding: 0 1.6rem 1.6rem;

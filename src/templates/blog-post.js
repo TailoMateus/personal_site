@@ -27,6 +27,12 @@ const BlogPost = ({ data, pageContext }) => {
       <S.MainContent>
         <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
       </S.MainContent>
+      <S.Newsletter>
+        <h1>Newsletter</h1>
+        <S.TextNews>Newsletter sobre tecnologia, produtividade, hábitos, a vida e algo mais.</S.TextNews>
+        <S.InscreverNews href="https://tinyletter.com/Tailo" target="_blank">Inscrever-se!</S.InscreverNews>
+      </S.Newsletter>
+        
       <RecommendedPosts next={next} previous={previous} />
     </Layout>
   )

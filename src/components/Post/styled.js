@@ -173,3 +173,23 @@ export const MainContent = styled.section`
     }
   }
 `
+
+export const Newsletter = styled.div`
+    border:1px solid #38444d;
+    padding: 30px 10px;
+    text-align: center;
+    margin: 20px;
+`
+
+export const InscreverNews = styled.a`
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 20px;
+    background: #38444d;
+    color: #fff;
+    padding: 14px;
+`
+
+export const TextNews = styled.p`
+    font-size: 19px;
+`

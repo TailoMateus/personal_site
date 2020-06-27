@@ -17,7 +17,7 @@ const Layout = ({ children, home }) => {
          <>
            <S.LayoutProfile>
              <S.ImageWrapper>
-               <img src="/assets/img/profile.jpeg" alt="Profile" />
+               <S.Image src="/assets/img/profile.jpeg" alt="Profile" />
              </S.ImageWrapper>
              <Profile />
            </S.LayoutProfile>

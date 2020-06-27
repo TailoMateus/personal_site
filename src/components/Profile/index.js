@@ -9,7 +9,6 @@ const Profile = () => {
       site {
         siteMetadata {
           title
-          description
         }
       }
     }
@@ -20,13 +19,15 @@ const Profile = () => {
         <S.FirstGroupWrapper>
           <S.Title>{site.siteMetadata.title}</S.Title>
         </S.FirstGroupWrapper>
-        <S.SecondGroupWrapper>
-          <S.ProfileWrapper>
-            {site.siteMetadata.description.map(description =>
-              <S.Items key={description}>{description}</S.Items>
-            )}
-          </S.ProfileWrapper>
-        </S.SecondGroupWrapper>
+        <div>
+          <S.Description>
+            I’m a software developer, minimalist who is passionate about helping people become more capable and productive with good habits.
+          </S.Description>
+
+          <S.Description>
+            I created this website in order to share my experiments in becoming a more effective and explores what it means to live a good life.
+          </S.Description>
+        </div>
     </S.PageWrapper>
   )
 }

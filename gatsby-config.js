@@ -4,9 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Tailo Mateus Gonsalves`,
     description: [
-      `A software developer.`,
-      `I'm also addicted to learning new things`,
-      `and I believe that habits change our life.`
+      `A software developer.`
     ],
     siteUrl: `https://tailogonsalves.com`,
   },

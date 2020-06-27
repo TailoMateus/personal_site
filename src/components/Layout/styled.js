@@ -26,10 +26,16 @@ export const ImageWrapper = styled.aside`
   max-width: 40%;
   display: inline-block;
   width: 100%;
+  margin-top: -3px;
 
   ${media.lessThan("medium")`
     max-width: 100%;
   `}
+`
+
+export const Image = styled.img`
+  top: 3px;
+  position: relative;
 `
 
 export const LayoutProfile = styled.div`

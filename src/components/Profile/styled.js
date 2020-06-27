@@ -20,15 +20,13 @@ export const FirstGroupWrapper = styled.div`
   align-items: flex-end;
 `
 
-export const SecondGroupWrapper = styled.div`
-  height: 50%;
-  display: flex;
-  align-items: center;
-`
-
-export const ProfileWrapper = styled.ul`
-  padding-left: 0;
-  width: 100%;
+export const Description = styled.p`
+  color: #fff;
+  opacity: 0.9;
+  font-size: 1.4rem;
+  margin-top: 24px;
+  max-width: 80%;
+  line-height: 28px;
 `
 
 export const Items = styled.li`

@@ -9,7 +9,8 @@ export const PaginationWrapper = styled.section`
   a {
     text-decoration: none;
     transition: color 0.5s;
-    font-size: 18px;
+    font-size: 1.6rem;
+    font-weight: 700;
     margin-right: 20px;
     &:hover {
       color: #1fa1f2;

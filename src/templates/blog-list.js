@@ -16,24 +16,20 @@ const BlogList = props => {
   const nextPage = `/page/${currentPage + 1}`
 
   return (
-    <Layout>
+    <Layout home={true}>
       <SEO title="Home" />
 
       {postList.map(
         ({
           node: {
-            frontmatter: { date, description, title },
-            timeToRead,
+            frontmatter: { date, title },
             fields: { slug },
           },
         }) => (
             <PostItem
               slug={slug}
               date={date}
-              timeToRead={timeToRead}
               title={title}
-              description={description}
-              search={false}
             />
           )
       )}

@@ -13,16 +13,16 @@ export const RecommendedWrapper = styled.section`
 
 export const RecommendedLink = styled(AniLink)`
   align-items: center;
-  background: #192734;
+  background: #191606;
   color: #fff;
   display: flex;
   padding: 3rem;
   text-decoration: none;
   transition: background 0.5s;
   width: 50%;
-  border-bottom: 1px solid #38444d;
-  border-top: 1px solid #38444d;
-  background: #192734;
+  border-bottom: 1px solid #191606;
+  border-top: 1px solid #191606;
+  background: #191606;
   line-height: 22px;
 
   ${media.lessThan("medium")`
@@ -32,10 +32,10 @@ export const RecommendedLink = styled(AniLink)`
   `}
 
   &:hover {
-    background: #38444d;
+    background: #191606;
   }
   &.previous {
-    border-right: 1px solid #38444d;
+    border-right: 1px solid #191606;
   }
   &.next {
     justify-content: flex-end;

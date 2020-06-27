@@ -8,14 +8,31 @@ import * as S from "./styled"
 import { TransitionPortal } from "gatsby-plugin-transition-link"
 
 
-const Layout = ({ children }) => {
+const Layout = ({ children, home }) => {
   return (
     <>
       <GlobalStyles />
-      <S.LayoutProfile>
-        <Profile />
-      </S.LayoutProfile>
-      <S.LayoutMain>{children}</S.LayoutMain>
+
+      {home ? (
+         <>
+           <S.LayoutProfile>
+             <S.ImageWrapper>
+               <img src="/assets/img/profile.jpeg" alt="Profile" />
+             </S.ImageWrapper>
+             <Profile />
+           </S.LayoutProfile>
+      
+           <S.AllPosts>All Articles</S.AllPosts>
+         </>
+      ) : (
+        <S.LayoutProfileInside>
+          <Profile />
+        </S.LayoutProfileInside>
+      )}  
+      
+      <S.LayoutMain>
+        {children}
+      </S.LayoutMain>
       <TransitionPortal level="top">
         <MenuBar />
       </TransitionPortal>

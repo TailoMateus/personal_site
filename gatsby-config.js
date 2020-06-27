@@ -8,7 +8,7 @@ module.exports = {
       `I'm also addicted to learning new things`,
       `and I believe that habits change our life.`
     ],
-    siteUrl: `https://tailomateus.github.io/`,
+    siteUrl: `https://tailogonsalves.com`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,

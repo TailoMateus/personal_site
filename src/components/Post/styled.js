@@ -4,6 +4,7 @@ import media from "styled-media-query"
 export const PostHeader = styled.header`
   margin: auto;
   max-width: 70rem;
+  margin-top: 60px;
 
   ${media.lessThan("medium")`
     padding: 0;
@@ -107,7 +108,7 @@ export const MainContent = styled.section`
     margin: 3.125rem auto;
   }
   hr {
-    border: 1px solid #38444d;
+    border: 1px solid #191606;
     margin: 3rem auto;
   }
   #twitter-widget-0,
@@ -175,7 +176,7 @@ export const MainContent = styled.section`
 `
 
 export const Newsletter = styled.div`
-    border:1px solid #38444d;
+    border:1px solid #191606;
     padding: 30px 10px;
     text-align: center;
     margin: 20px;
@@ -185,7 +186,7 @@ export const InscreverNews = styled.a`
     display: inline-block;
     margin-top: 30px;
     font-size: 20px;
-    background: #38444d;
+    background: #191606;
     color: #fff;
     padding: 14px;
 `

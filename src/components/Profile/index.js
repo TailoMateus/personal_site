@@ -16,7 +16,7 @@ const Profile = () => {
   `)
 
   return (
-    <>
+    <S.PageWrapper>
         <S.FirstGroupWrapper>
           <S.Title>{site.siteMetadata.title}</S.Title>
         </S.FirstGroupWrapper>
@@ -27,7 +27,7 @@ const Profile = () => {
             )}
           </S.ProfileWrapper>
         </S.SecondGroupWrapper>
-    </>
+    </S.PageWrapper>
   )
 }
 

@@ -11,7 +11,7 @@ const BlogPost = ({ data, pageContext }) => {
   const previous = pageContext.previousPost
 
   return (
-    <Layout>
+    <Layout home={false}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description}

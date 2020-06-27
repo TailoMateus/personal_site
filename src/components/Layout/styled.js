@@ -42,9 +42,3 @@ export const LayoutProfile = styled.div`
   width: 100%;
   background-color: #191606;
 `
-
-export const LayoutProfileInside = styled.div`
-  width: 100%;
-  text-align: center;
-  background-color: #191606;
-`

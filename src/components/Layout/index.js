@@ -13,21 +13,15 @@ const Layout = ({ children, home }) => {
     <>
       <GlobalStyles />
 
-      {home ? (
-         <>
-           <S.LayoutProfile>
-             <S.ImageWrapper>
-               <S.Image src="/assets/img/profile.jpeg" alt="Profile" />
-             </S.ImageWrapper>
-             <Profile />
-           </S.LayoutProfile>
-      
-           <S.AllPosts>All Articles</S.AllPosts>
-         </>
-      ) : (
-        <S.LayoutProfileInside>
-          <Profile />
-        </S.LayoutProfileInside>
+      <S.LayoutProfile>
+        <S.ImageWrapper>
+          <S.Image src="/assets/img/profile.jpeg" alt="Profile" />
+        </S.ImageWrapper>
+        <Profile />
+      </S.LayoutProfile>
+
+      {home && (
+        <S.AllPosts>All Articles</S.AllPosts>
       )}  
       
       <S.LayoutMain>

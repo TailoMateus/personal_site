@@ -2,15 +2,16 @@ import styled from 'styled-components'
 import media from 'styled-media-query'
 
 export const PageWrapper = styled.div`
-  max-width: 60%;
+  width: 100%;
   display: inline-block;
   padding: 30px 60px;
   vertical-align: top;
   box-sizing: border-box;
+  text-align: center;
 
   ${media.lessThan("medium")`
     max-width: 100%;
-    padding: 20px;
+    padding: 20px 50px 20px 10px;
   `}
 `
 
@@ -18,15 +19,6 @@ export const FirstGroupWrapper = styled.div`
   height: 40%;
   display: flex;
   align-items: flex-end;
-`
-
-export const Description = styled.p`
-  color: #fff;
-  opacity: 0.9;
-  font-size: 1.4rem;
-  margin-top: 24px;
-  max-width: 80%;
-  line-height: 28px;
 `
 
 export const Items = styled.li`
@@ -47,12 +39,12 @@ export const Items = styled.li`
 
 export const Title = styled.h1`
   width: 100%;
-  font-size: 36px;
-  margin-bottom: 10px;
+  font-size: 60px;
   color: #fff;
   opacity: 0.9;
 
   ${media.lessThan("medium")`
     font-size: 30px;
+    line-height: 40px;
   `}
 `

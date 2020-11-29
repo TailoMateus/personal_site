@@ -14,9 +14,6 @@ const Layout = ({ children, home }) => {
       <GlobalStyles />
 
       <S.LayoutProfile>
-        <S.ImageWrapper>
-          <S.Image src="/assets/img/profile.jpeg" alt="Profile" />
-        </S.ImageWrapper>
         <Profile />
       </S.LayoutProfile>
 
